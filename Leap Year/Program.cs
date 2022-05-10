@@ -4,7 +4,7 @@
     {
         public static void Main()
         {
-            Console.WriteLine("Enter Year : ");
+            Console.Write("Enter Year : ");
             try
             {
                 var year = Convert.ToInt32(Console.ReadLine());
